@@ -31,3 +31,4 @@ let ss = "Nikki"
 let boolSs = Boolean(ss)
 console.log(boolSs);  //true
 
+
